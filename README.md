@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.keyner.dev" target="_blank">
+  <a href="https://www.keyner.dev.br" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/keynerwelkler" target="_blank">
