@@ -81,6 +81,10 @@ Utilizo o GitHub para organizar meus projetos, contribuir com a comunidade e man
 
 ---
 
+![Status](https://img.shields.io/badge/Disponível%20para%20freelas-yes-success?style=flat-square)
+![Projetos Ativos](https://img.shields.io/badge/Projetos%20Open--Source-em%20andamento-blue?style=flat-square)
+
+
 <p align="center">
   <em>“Transformar ideias em soluções é a minha missão.”</em>
 </p>
