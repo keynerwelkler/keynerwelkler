@@ -66,14 +66,6 @@ Atualmente lidero dois projetos transformadores:
 - 📚 Mentor e educador na área de tecnologia e programação
 
 
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keynerwelkler&show_icons=true&theme=github_dark&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keynerwelkler&layout=compact&langs_count=10&theme=github_dark" />
-</p>
-
----
 
 ### 💡 Objetivo com o GitHub
 
