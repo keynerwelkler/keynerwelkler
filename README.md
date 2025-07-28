@@ -21,7 +21,7 @@
 
 ### 👋 Sobre mim
 
-Sou um apaixonado por tecnologia e educação, com mais de duas décadas de experiência na área de desenvolvimento. Já entreguei mais de **100 sistemas** e **500 sites** ao longo da minha jornada.
+Sou um apaixonado por tecnologia e educação, com mais de duas décadas de experiência na área de desenvolvimento. Já entreguei mais de **100 sistemas** e **5000 sites** ao longo da minha jornada, além de já ter formado mais de **15000 alunos** alunos na área de tecnologia.
 
 Atualmente lidero dois projetos transformadores:
 - 🚀 **Agência Pró Webdesigner** – Desenvolvimento de sistemas personalizados, sites otimizados e consultorias digitais.
