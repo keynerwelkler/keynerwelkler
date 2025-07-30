@@ -17,6 +17,13 @@
   </a>
 </p>
 
+<h3 align="center">🐘 Desenvolvedor PHP apaixonado por backend</h3>
+<img src="https://img.shields.io/badge/PHP%20Expert-8892BF?style=for-the-badge&logo=php&logoColor=white" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="100"/>
+</p>
+
 ---
 
 ### 👋 Sobre mim
