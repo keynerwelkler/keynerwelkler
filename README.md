@@ -65,6 +65,9 @@ Atualmente lidero dois projetos transformadores:
 - 🌐 Mais de **500 sites publicados**
 - 📚 Mentor e educador na área de tecnologia e programação
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keynerwelkler&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keynerwelkler&show_icons=true&theme=default)
+
 
 
 ### 💡 Objetivo com o GitHub
