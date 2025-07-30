@@ -54,6 +54,7 @@ Atualmente lidero dois projetos transformadores:
 ![REST API](https://img.shields.io/badge/-REST%20API-006B8F?style=flat-square&logo=api&logoColor=white)
 ![Automação Web](https://img.shields.io/badge/-Automação%20Web-007ACC?style=flat-square&logo=zapier&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keynerwelkler&layout=compact&theme=default)
 
 ---
 
@@ -65,8 +66,6 @@ Atualmente lidero dois projetos transformadores:
 - 🌐 Mais de **500 sites publicados**
 - 📚 Mentor e educador na área de tecnologia e programação
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keynerwelkler&layout=compact&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keynerwelkler&show_icons=true&theme=default)
 
 
 
