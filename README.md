@@ -79,7 +79,9 @@ Atualmente lidero dois projetos transformadores:
 - 🧩 Mais de **100 sistemas web entregues**
 - 🌐 Mais de **500 sites publicados**
 - 📚 Mentor e educador na área de tecnologia e programação
-- 🤖 Especialista em automação com n8n
+- 🤖 Especialista em automações inteligentes com n8n e integrações API, otimizando processos e aumentando a produtividade.
+
+
 
 
 
