@@ -29,13 +29,16 @@
 
 ### 👋 Sobre mim
 
-Sou um apaixonado por tecnologia e educação, com mais de duas décadas de experiência na área de desenvolvimento. Já entreguei mais de **100 sistemas** e **5000 sites** ao longo da minha jornada, além de já ter formado mais de **15000 alunos** alunos na área de tecnologia.
+Sou um apaixonado por tecnologia e educação, com mais de duas décadas de experiência na área de desenvolvimento. Já entreguei mais de **100 sistemas** e **5000 sites** ao longo da minha jornada, além de já ter formado mais de **15000 alunos** na área de tecnologia.
 
 Atualmente lidero dois projetos transformadores:
 - 🚀 **Agência Pró Webdesigner** – Desenvolvimento de sistemas personalizados, sites otimizados e consultorias digitais.
 - 🎓 **WR Cursos** – Escola referência no Distrito Federal em cursos de tecnologia, com foco em empregabilidade e formação prática.
 
 ---
+![Alunos Formados](https://img.shields.io/badge/Alunos%20Formados-15000+-blue?style=flat-square)
+
+![Sistemas Entregues](https://img.shields.io/badge/Sistemas-100+-green?style=flat-square)
 
 ### 🛠️ Tecnologias 
 
