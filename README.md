@@ -64,9 +64,17 @@ Atualmente lidero dois projetos transformadores:
 ![REST API](https://img.shields.io/badge/-REST%20API-006B8F?style=flat-square&logo=api&logoColor=white)
 ![Automação Web](https://img.shields.io/badge/-Automação%20Web-007ACC?style=flat-square&logo=zapier&logoColor=white)
 
-#### ⚡ Automação
+#### ⚡ Automação & Integrações
 ![n8n](https://img.shields.io/badge/-n8n-EA4B8B?style=flat-square&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![ChatGPT API](https://img.shields.io/badge/-ChatGPT%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![WhatsApp Bot](https://img.shields.io/badge/-WhatsApp%20Bot-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Google Drive](https://img.shields.io/badge/-Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/-Google%20Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Asaas API](https://img.shields.io/badge/-Asaas%20API-1D1D1D?style=flat-square)
+![ZapSign](https://img.shields.io/badge/-ZapSign-000000?style=flat-square)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keynerwelkler&layout=compact&theme=default)
 
