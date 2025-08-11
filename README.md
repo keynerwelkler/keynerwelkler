@@ -51,29 +51,35 @@ Atualmente lidero dois projetos transformadores:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
 ![Composer](https://img.shields.io/badge/-Composer-885630?style=flat-square&logo=composer&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![ADVPL](https://img.shields.io/badge/-ADVPL-004A7C?style=flat-square&logo=totvs&logoColor=white)
 
 #### 🛢️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Modelagem](https://img.shields.io/badge/-Modelagem%20de%20Dados-6C757D?style=flat-square)
 ![Performance](https://img.shields.io/badge/-Otimização%20de%20Consultas-20C997?style=flat-square)
 
-#### 🧰 Outros
+#### 🛠️ Ferramentas & Boas Práticas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![SEO](https://img.shields.io/badge/-SEO-0F9D58?style=flat-square&logo=google&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-006B8F?style=flat-square&logo=api&logoColor=white)
-![Automação Web](https://img.shields.io/badge/-Automação%20Web-007ACC?style=flat-square&logo=zapier&logoColor=white)
+![OAuth2](https://img.shields.io/badge/-OAuth%202.0-3E8EDE?style=flat-square&logo=auth0&logoColor=white)
 
 #### ⚡ Automação & Integrações
 ![n8n](https://img.shields.io/badge/-n8n-EA4B8B?style=flat-square&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 ![ChatGPT API](https://img.shields.io/badge/-ChatGPT%20API-412991?style=flat-square&logo=openai&logoColor=white)
-![WhatsApp Bot](https://img.shields.io/badge/-WhatsApp%20Bot-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![WhatsApp Bot](https://img.shields.io/badge/-WhatsApp%20Bot%20(API%20Oficial)-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/-Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)
 ![Google Calendar](https://img.shields.io/badge/-Google%20Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Asaas API](https://img.shields.io/badge/-Asaas%20API-1D1D1D?style=flat-square)
 ![ZapSign](https://img.shields.io/badge/-ZapSign-000000?style=flat-square)
+![ERPs](https://img.shields.io/badge/-Integração%20com%20ERPs-0A66C2?style=flat-square)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keynerwelkler&layout=compact&theme=default)
