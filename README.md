@@ -37,7 +37,6 @@ Atualmente lidero dois projetos transformadores:
 
 ---
 ![Alunos Formados](https://img.shields.io/badge/Alunos%20Formados-15000+-blue?style=flat-square)
-
 ![Sistemas Entregues](https://img.shields.io/badge/Sistemas-100+-green?style=flat-square)
 
 ### 🛠️ Tecnologias 
@@ -64,6 +63,10 @@ Atualmente lidero dois projetos transformadores:
 ![SEO](https://img.shields.io/badge/-SEO-0F9D58?style=flat-square&logo=google&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-006B8F?style=flat-square&logo=api&logoColor=white)
 ![Automação Web](https://img.shields.io/badge/-Automação%20Web-007ACC?style=flat-square&logo=zapier&logoColor=white)
+
+#### ⚡ Automação
+![n8n](https://img.shields.io/badge/-n8n-EA4B8B?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keynerwelkler&layout=compact&theme=default)
 
